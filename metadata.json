@@ -1,0 +1,6 @@
+{
+  "name": "For U",
+  "description": "集生活记录、健康追踪、效率管理与个人私密数据库于一体的综合性生活助手 App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
